@@ -26,7 +26,7 @@ This project demonstrates task management features with a clean UI.
 
 ##  Preview
 
-![Todo List Preview](./preview.png)
+![Todo List Preview]([./preview.png](https://fatemehnazari0.github.io/to_do_list/))
 
 ---
 
@@ -53,4 +53,5 @@ This project was created to practice and demonstrate:
 
 This project is open-source and free to use.
 ﻿# to-do-list-project
+
 
